@@ -1,0 +1,1 @@
+* * * * * /usr/bin/curl http://doitallbucketlist.com/mysql/NotificationManager.php
